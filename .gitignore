@@ -39,7 +39,6 @@ Desktop.ini
 .idea/
 *.swp
 *.swo
-*~
 
 # Temporary and cache files
 *.cache
